@@ -5,6 +5,6 @@ Features:
 
 Score tracking and feedback at the end.
 
-To launch your project in your browser,
+To launch the project in your browser,
 
 Open index.html
